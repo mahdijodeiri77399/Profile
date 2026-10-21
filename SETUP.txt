@@ -1,0 +1,10 @@
+MAHDI'S GITHUB PROFILE README
+
+1. Open GitHub and create a NEW PUBLIC repository with the exact same name as your GitHub username.
+2. Upload README.md and profile-banner.png from this folder to the repository root.
+3. In README.md, replace every occurrence of YOUR_GITHUB_USERNAME with your actual GitHub username.
+4. Edit the project ideas so they link to your real repositories. Remove any technology badge that doesn't reflect your experience yet.
+5. Commit the files. GitHub should display README.md on your profile.
+
+Note: The banner is a decorative image. The README text, badges, and stats are separate and editable.
+Some badges/stat widgets use third-party services and may take a little time to load.
